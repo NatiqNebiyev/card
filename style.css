@@ -1,0 +1,82 @@
+* {
+    color: aliceblue;
+}
+
+.card {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: linear-gradient(90deg, rgba(122, 39, 204, 1) 40%, rgba(26, 159, 209, 1) 74%);
+}
+
+.h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-2 {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgb(226, 19, 133) 40%, rgb(207, 141, 19) 74%);
+}
+
+.h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-3 {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgb(33, 19, 226) 40%, rgb(19, 207, 91) 74%);
+}
+
+.h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
